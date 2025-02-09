@@ -1,1 +1,1 @@
-# Scenic_GAN
+Using GAN to create scenic pictures.
